@@ -20,3 +20,11 @@
     :clap: It enables building complex responsive layouts freely.
 
     :handshake: It facilitates fluid community interaction.
+
+# History
+##	Tailwind v1.0
+        It was the first stable release of family. The first alpha was released on **November** **1st, 2017.** It’s been adopted by tech giants like Mozilla and Algolia and used to build new start-ups like Right Message and PingPing.
+##	Tailwind v1.1
+       The successive upgrade to v1.1 included new screen reader visibility utilities, new utilities for setting the placeholder colour on form elements, new variants for first-child, last-child, nth-child(odd) and nth-child(even)
+##	Tailwind 1.2
+        It is the current stable version being used extensively due to added support for CSS grid, transitions and transforms.
