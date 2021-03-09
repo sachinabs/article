@@ -11,4 +11,4 @@
 
 - Implementing Tailwind CSS will eliminate all the above-mentioned issues. **Tailwind CSS creates small utilities with a defined set of options** enabling easy integration of existing classes directly into the HTML code. Custom styling can be provided to the components with the help of this framework.
 
-![feature](https://user-images.githubusercontent.com/61160377/110465719-cd54d400-80fa-11eb-850a-ca53cd304333.png)
+![feature](https://user-images.githubusercontent.com/61160377/110465719-cd54d400-80fa-11eb-850a-ca53cd304333.png) It is Highly Customizable
