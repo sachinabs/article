@@ -11,4 +11,8 @@
 
 - Implementing Tailwind CSS will eliminate all the above-mentioned issues. **Tailwind CSS creates small utilities with a defined set of options** enabling easy integration of existing classes directly into the HTML code. Custom styling can be provided to the components with the help of this framework.
 
-:ok_hand: It is Highly Customizable
+                            :ok_hand: It is Highly Customizable.
+                            :ok_hand: It has common utility patterns.
+                            :raised_hands: It can be optimized using PurgeCSS.
+                            :clap: It enables building complex responsive layouts freely.
+                            :handshake: It facilitates fluid community interaction.
