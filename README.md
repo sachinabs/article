@@ -5,3 +5,9 @@
 - Beautiful custom user interfaces can be effectively built using CSS without actually putting in much coding effort. Being a utility-first framework, Tailwind CSS renders the leverage of styling every component distinctively, the way you desire.
 
 - Adapting the “form follow function”, the name of the utility class predicts the exact function of that class for ease in designing. Tailwind combines the most critical CSS properties which can be customized and extended according to project requirements.
+
+# Why Use Tailwind CSS?
+- There’s a lot that goes on in web development. It can sometimes, thus, become an overly complicated task. **Mapping** the impact of styling might become tedious and time-consuming hampering the progress of the application/website.
+
+- Implementing Tailwind CSS will eliminate all the above-mentioned issues. **Tailwind CSS creates small utilities with a defined set of options** enabling easy integration of existing classes directly into the HTML code. Custom styling can be provided to the components with the help of this framework.
+
